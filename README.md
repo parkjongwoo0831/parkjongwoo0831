@@ -1,6 +1,6 @@
 👋 Hi, I’m Park Jong Woo
 
-👀 I’m interested in Artificial Intelligence, Economy, and Logistics Automation
+👀 I’m interested in Artificial Intelligence, Logistics Automation
 
 🌱 I’m currently pursuing a Master’s degree in Business Administration at Tech University of Korea (TUK)
 
