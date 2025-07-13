@@ -1,6 +1,6 @@
-- 👋 Hi, I’m park jong woo
-- 👀 I’m interested in AI, Economy, Quant
-- 🌱 I’m currently learning Business administration, AI
+👋 Hi, I’m Park Jong Woo
+👀 I’m interested in Artificial Intelligence, Economy, and Logistics Automation
+🌱 I’m currently pursuing a Master’s degree in Business Administration at Tech University of Korea (TUK)
 
 
 <!---
