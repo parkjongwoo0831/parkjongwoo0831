@@ -98,12 +98,3 @@
     <img src = "https://img.shields.io/badge/Adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
     <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </div>
-
-<!-- 프로젝트 통계 -->
-<br>
-<h3 align="center">📈 Project Stats</h3>
-<div align="center" style="display: flex; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220" style="flex: 1;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=transparent&card_width=220" style="flex: 1;"><br>
-</div>
-[출처] [GITHUB] 깃허브 README 꾸미기!|작성자 Peakearth00
