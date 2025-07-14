@@ -18,7 +18,7 @@
   </div>
   <br><br>
   <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
-    🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌<br>
+    🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌<br><br>
     <div align = "center">
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
