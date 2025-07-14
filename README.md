@@ -7,7 +7,7 @@
   𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :)
 </h3>
 <h4 align="center" style="font-style: italic; font-family: 'Times New Roman', serif;">
-  𝑩𝒂𝒌 𝒋𝒐𝒏𝒈𝒘𝒐𝒐 | 𝑱𝒐𝒏𝒈𝒘𝒐𝒐 𝑷𝒂𝒓𝒌
+  박종우 | 𝑱𝒐𝒏𝒈𝒘𝒐𝒐 𝑷𝒂𝒓𝒌
 </h4>
 
 <div align="center">
