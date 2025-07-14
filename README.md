@@ -24,9 +24,6 @@
   <a href="https://github.com/parkjongwoo0831">
     <img src="https://img.shields.io/github/followers/parkjongwoo0831?label=Follow&style=social">
   </a>
-  <a href="mailto:pjw010831@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.notion.so/Park-jongwoo-16800f4320e8814cb318fd80f60f06c7?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">
   </a>
