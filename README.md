@@ -4,9 +4,10 @@
   박종우 | 𝑱𝒐𝒏𝒈𝒘𝒐𝒐 𝑷𝒂𝒓𝒌
 </h4>
 
-<div align="center">
-  🎓 B.A. in Business Administration, Tech Univercity of Korea<br>
-  🎓 M.A. Candidate in Business Administration, Tech Univercity of Korea<br><br>
+  <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
+    🎓 Education<br>
+    B.A. in Business Administration, Tech Univercity of Korea<br>
+    M.A. Candidate in Business Administration, Tech Univercity of Korea<br><br>
 
   <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
     📌 𝑭𝒊𝒆𝒍𝒅𝒔 𝒐𝒇 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕<br>
