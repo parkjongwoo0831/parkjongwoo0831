@@ -15,7 +15,6 @@
     Supply Chain Management (SCM)<br>
     Data Analysis<br>
     Predictive Modeling
-  </div>
 </div>
   <br><br>
   <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
