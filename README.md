@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
   </div>
-</div></div>
+</div>
 
 <!-- Detailed Overview Section with Notion Link -->
 <div style="text-align: left; display: inline-block; max-width: 600px; font-style: italic; font-family: 'Times New Roman', serif; margin-top: 30px;">
