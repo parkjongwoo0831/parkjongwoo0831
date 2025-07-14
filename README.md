@@ -25,14 +25,7 @@
   <br><br>
   <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
     🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌<br>
-    Python, SQL<br>
-    Pandas, Scikit-learn, TensorFlow<br>
-    Excel, Power BI
-  </div>
-</div>
-<br>
-<h3 align = "center">✨ Tech Stack</h3>
-<div align = "center">
+    <div align = "center">
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
 </div>
@@ -46,6 +39,8 @@
   <img src = "https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src = "https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src = "https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+</div>
+  </div>
 </div>
 <br>
 <div align = "center">
