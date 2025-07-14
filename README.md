@@ -1,11 +1,5 @@
-👋 Hi, I’m Park Jong Woo
 <!DOCTYPE html>
 <html>
-
-<!-- 자기소개 -->
-<h3 align="center" style="font-style: italic; font-family: 'Times New Roman', serif;">
-  𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :)
-</h3>
 <h4 align="center" style="font-style: italic; font-family: 'Times New Roman', serif;">
   박종우 | 𝑱𝒐𝒏𝒈𝒘𝒐𝒐 𝑷𝒂𝒓𝒌
 </h4>
