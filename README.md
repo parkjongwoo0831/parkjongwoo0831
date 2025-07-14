@@ -45,7 +45,7 @@
 <br><br>
 <!-- Detailed Overview Section with Notion Link -->
 <div style="text-align: left; display: inline-block; max-width: 600px; font-style: italic; font-family: 'Times New Roman', serif; margin-top: 30px;">
-  🔎 <b>Detailed Overview of Activities and Background</b><br>
+  🔎 <span style="font-weight: bold;">𝑫𝒆𝒕𝒂𝒊𝒍𝒆𝒅 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘 𝒐𝒇 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒊𝒆𝒔 𝒂𝒏𝒅 𝑩𝒂𝒄𝒌𝒈𝒓𝒐𝒖𝒏𝒅</span><br>
 
   <!-- Notion badge as a link -->
   <a href="https://www.notion.so/Park-jongwoo-16800f4320e8814cb318fd80f60f06c7?source=copy_link" target="_blank">
