@@ -21,11 +21,11 @@
 
 <!-- 소셜 배지 -->
 <p align="center">
-  <a href="https://github.com/<GitHub ID>"><img src="https://img.shields.io/github/followers/<Github ID>?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://blog.naver.com/ID"><img src="https://img.shields.io/badge/Blog-20C997?logo=naver&logoColor=white"></a>
-  <a href="mailto:ID@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/parkjongwoo0831"><img src="https://img.shields.io/github/followers/yourGithubID?label=Follow&style=social"></a>
+  <a href="pjw010831@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="[https://www.notion.so/yourNotionPageLink](https://www.notion.so/Park-jongwoo-16800f4320e8814cb318fd80f60f06c7?source=copy_link)"><img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"></a>
 </p>
+
 </div>
 
 ---
