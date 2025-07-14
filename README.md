@@ -3,15 +3,19 @@
 <html>
 
 <!-- 자기소개 -->
-<h3 align="center">𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :)</h3>
-<h4 align="center">박종우 | Jongwoo Park</h4>
+<h3 align="center" style="font-style: italic; font-family: 'Times New Roman', serif;">
+  𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :)
+</h3>
+<h4 align="center" style="font-style: italic; font-family: 'Times New Roman', serif;">
+  𝑩𝒂𝒌 𝒋𝒐𝒏𝒈𝒘𝒐𝒐 | 𝑱𝒐𝒏𝒈𝒘𝒐𝒐 𝑷𝒂𝒓𝒌
+</h4>
 
 <div align="center">
   🎓 한국공학대학교 경영학 학사<br>
   🎓 한국공학대학교 경영학 석사 재학 중<br><br>
 
-  <div style="text-align: left; display: inline-block; max-width: 300px;">
-    📌 관심 분야<br>
+  <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
+    📌 𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔<br>
     물류 자동화<br>
     인공지능(AI)<br>
     공급망 관리(SCM)<br>
@@ -19,14 +23,13 @@
     예측 모델링
   </div>
   <br><br>
-  <div style="text-align: left; display: inline-block; max-width: 300px;">
-    🛠️ 기술 스택<br>
+  <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
+    🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌<br>
     Python, SQL<br>
     Pandas, Scikit-learn, TensorFlow<br>
     Excel, Power BI
   </div>
 </div>
-
 
 <br>
 <div align = "center">
