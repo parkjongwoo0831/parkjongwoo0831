@@ -19,6 +19,17 @@
   도시공학과 빅데이터의 융합을 통해 시민들이 안전하고 편리하게 생활할 수 있는 도시 계획을 연구하고자 합니다.<br>
 </div>
 
+<!-- 소셜 배지 -->
+<p align="center">
+  <a href="https://github.com/<GitHub ID>"><img src="https://img.shields.io/github/followers/<Github ID>?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://blog.naver.com/ID"><img src="https://img.shields.io/badge/Blog-20C997?logo=naver&logoColor=white"></a>
+  <a href="mailto:ID@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
+</div>
+
+---
+
 <!-- 내용 부분 -->
 <br>
 <h3 align = "center">✨ Tech Stack</h3>
