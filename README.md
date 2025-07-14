@@ -46,8 +46,14 @@
 <div style="text-align: left; display: inline-block; max-width: 600px; font-style: italic; font-family: 'Times New Roman', serif; margin-top: 30px;">
   🔎 <b>Detailed Overview of Activities and Background</b><br>
   For a comprehensive list of my academic projects, extracurricular activities, and personal growth journey,<br>
-  please visit my Notion portfolio: <br>
-  <a href="[https://your-notion-link.com](https://www.notion.so/Park-jongwoo-16800f4320e8814cb318fd80f60f06c7?source=copy_link)" target="_blank" style="font-style: italic; font-family: 'Times New Roman', serif; color: #003399; text-decoration: underline;">
-    https://your-notion-link.com
+  please visit my Notion portfolio:<br><br>
+  
+  <!-- Notion Icon with Link -->
+  <a href="https://www.notion.so/Park-jongwoo-16800f4320e8814cb318fd80f60f06c7?source=copy_link" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="24" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-style: italic; font-family: 'Times New Roman', serif; color: #003399; text-decoration: underline;">
+      Visit My Notion Portfolio
+    </span>
   </a>
 </div>
+
