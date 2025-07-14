@@ -5,17 +5,18 @@
 </h4>
 
 <div align="center">
-  🎓 한국공학대학교 경영학 학사<br>
-  🎓 한국공학대학교 경영학 석사 재학 중<br><br>
+  🎓 B.A. in Business Administration, Tech Univercity of Korea<br>
+  🎓 M.A. Candidate in Business Administration, Tech Univercity of Korea<br><br>
 
   <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
-    📌 𝑪𝒐𝒏𝒕𝒆𝒏𝒕𝒔<br>
-    물류 자동화<br>
-    인공지능(AI)<br>
-    공급망 관리(SCM)<br>
-    데이터 분석<br>
-    예측 모델링
+    📌 𝑭𝒊𝒆𝒍𝒅𝒔 𝒐𝒇 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕<br>
+    Logistics Automation<br>
+    Artificial Intelligence (AI)<br>
+    Supply Chain Management (SCM)<br>
+    Data Analysis<br>
+    Predictive Modeling
   </div>
+</div>
   <br><br>
   <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
     🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌<br>
