@@ -46,13 +46,11 @@
 <!-- Detailed Overview Section with Notion Link -->
 <div style="text-align: left; display: inline-block; max-width: 600px; font-style: italic; font-family: 'Times New Roman', serif; margin-top: 30px;">
   🔎 <b>Detailed Overview of Activities and Background</b><br>
-  
-  <!-- Notion Icon with Link -->
-  <a href="https://www.notion.so/Park-jongwoo-16800f4320e8814cb318fd80f60f06c7?source=copy_link" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="24" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-style: italic; font-family: 'Times New Roman', serif; color: #003399; text-decoration: underline;">
-      Visit My Notion Portfolio
-    </span>
+  For a comprehensive list of my academic projects, extracurricular activities, and personal growth journey,<br><br>
+
+  <!-- Notion badge as a link -->
+  <a href="https://www.notion.so/Park-jongwoo-16800f4320e8814cb318fd80f60f06c7?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" />
   </a>
 </div>
 
