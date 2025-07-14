@@ -11,16 +11,16 @@
   🎓 한국공학대학교 경영학 석사 재학 중<br><br>
 
   📌 관심 분야<br>
-    물류 자동화<br>
-    인공지능(AI)<br>
-    공급망 관리(SCM)<br>
-    데이터 분석<br>
-    예측 모델링<br><br>
+      물류 자동화<br>
+      인공지능(AI)<br>
+      공급망 관리(SCM)<br>
+      데이터 분석<br>
+      예측 모델링<br><br>
 
   🛠️ 기술 스택<br>
-    Python, SQL<br>
-    Pandas, Scikit-learn, TensorFlow<br>
-    Excel, Power BI
+      Python, SQL<br>
+      Pandas, Scikit-learn, TensorFlow<br>
+      Excel, Power BI
 </div>
 
 <br>
