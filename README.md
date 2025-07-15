@@ -7,8 +7,8 @@
 <!-- Education Section -->
 <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
   🎓 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏<br>
-  B.A. in Business Administration, Tech Univercity of Korea<br>
-  M.A. Candidate in Business Administration, Tech Univercity of Korea
+  B.A. in Business Administration, Tech University of Korea<br>
+  M.A. Candidate in Business Administration, Tech University of Korea
 </div>
 <br><br>
 
