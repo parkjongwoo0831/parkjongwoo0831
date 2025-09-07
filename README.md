@@ -7,9 +7,7 @@
 <!-- Fields of Interest Section -->
 <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
   📌 𝑭𝒊𝒆𝒍𝒅𝒔 𝒐𝒇 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕<br>
-  Logistics Automation<br>
   Artificial Intelligence (AI)<br>
-  Supply Chain Management (SCM)<br>
   Data Analysis<br>
   Predictive Modeling
 </div>
