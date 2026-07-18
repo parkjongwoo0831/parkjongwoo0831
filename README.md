@@ -7,8 +7,8 @@
 <!-- Fields of Interest Section -->
 <div style="text-align: left; display: inline-block; max-width: 300px; font-style: italic; font-family: 'Times New Roman', serif;">
   📌 𝑭𝒊𝒆𝒍𝒅𝒔 𝒐𝒇 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕<br>
-  Artificial Intelligence (AI)<br>
-  Data Analysis<br>
-  Predictive Modeling
+  Physical AI & Digital Twin<br>
+  Industrial AI & Predictive Analytics<br>
+  Data-Driven Smart Manufacturing
 </div>
-<br><br>
+<br>
