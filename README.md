@@ -16,8 +16,9 @@
       📌 𝑭𝒊𝒆𝒍𝒅𝒔 𝒐𝒇 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕
     </span>
     <ul style="list-style-type: '- '; margin: 0; padding-left: 15px; font-style: italic;">
-      <li>Industrial AI & Predictive Analytics</li>
-      <li>Data-Driven Smart Manufacturing</li>
+      <li> Manufacturing Data Analytics <li>
+      <li> Predictive Maintenance & Process Monitoring <li>
+      <li> Quality Analytics & Defect Detection <li>
     </ul>
   </div>
 
