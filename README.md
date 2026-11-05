@@ -16,7 +16,6 @@
       📌 𝑭𝒊𝒆𝒍𝒅𝒔 𝒐𝒇 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕
     </span>
     <ul style="list-style-type: '- '; margin: 0; padding-left: 15px; font-style: italic;">
-      <li>Physical AI & Digital Twin</li>
       <li>Industrial AI & Predictive Analytics</li>
       <li>Data-Driven Smart Manufacturing</li>
     </ul>
